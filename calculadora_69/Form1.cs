@@ -43,7 +43,7 @@ namespace calculadora_69
             lblresultado.Text = Resultado.ToString();
 
         }
-        private void txtnum1_KeyPress(object sender, KeyPressEventArgs e)
+        private void txtnum1_KeyPress(object sender, KeyPressEventArgs e) // sirve para bloquear el ingreso de datos que no son numeros
         {  
                 
         if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
@@ -54,5 +54,15 @@ namespace calculadora_69
 
         }
 
+        private void txtnum2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true; //bloquea si el caracter ingresado no es numero
+            }
+
+
+        }
     }
+    
 }

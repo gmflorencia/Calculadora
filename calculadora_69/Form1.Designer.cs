@@ -92,6 +92,7 @@
             this.txtnum2.Name = "txtnum2";
             this.txtnum2.Size = new System.Drawing.Size(100, 22);
             this.txtnum2.TabIndex = 5;
+            this.txtnum2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtnum2_KeyPress);
             // 
             // txtnum1
             // 
@@ -99,7 +100,6 @@
             this.txtnum1.Name = "txtnum1";
             this.txtnum1.Size = new System.Drawing.Size(100, 22);
             this.txtnum1.TabIndex = 6;
-            
             this.txtnum1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtnum1_KeyPress);
             // 
             // Form1

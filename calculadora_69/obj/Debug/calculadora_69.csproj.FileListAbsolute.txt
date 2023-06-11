@@ -9,3 +9,14 @@ C:\Users\macabrera\OneDrive - ANDREANI LOGISTICA SA\Documentos\FLOR\C#\calculado
 C:\Users\macabrera\OneDrive - ANDREANI LOGISTICA SA\Documentos\FLOR\C#\calculadora_69\calculadora_69\bin\Debug\calculadora_69.pdb
 C:\Users\macabrera\OneDrive - ANDREANI LOGISTICA SA\Documentos\FLOR\C#\calculadora_69\calculadora_69\obj\Debug\calculadora_69.exe
 C:\Users\macabrera\OneDrive - ANDREANI LOGISTICA SA\Documentos\FLOR\C#\calculadora_69\calculadora_69\obj\Debug\calculadora_69.pdb
+C:\Repositorio\calculadora_69\calculadora_69\bin\Debug\calculadora_69.exe.config
+C:\Repositorio\calculadora_69\calculadora_69\bin\Debug\calculadora_69.exe
+C:\Repositorio\calculadora_69\calculadora_69\bin\Debug\calculadora_69.pdb
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.csproj.AssemblyReference.cache
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.csproj.SuggestedBindingRedirects.cache
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.Form1.resources
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.Properties.Resources.resources
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.csproj.GenerateResource.cache
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.csproj.CoreCompileInputs.cache
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.exe
+C:\Repositorio\calculadora_69\calculadora_69\obj\Debug\calculadora_69.pdb
